@@ -5,3 +5,6 @@ Step-by-step instructions to operate the project:
 3) Run the MetroMeshJoin Project in Eclipse.
 4) Run the CreateDW query in MySQL. It will create a star schema and load data from CombinedTable into the Star schema
 5) Run QueriesDW query for OLAP, in MySQL.  
+
+
+Note: Read Project Report for understanding the project
